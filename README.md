@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- markdownlint-disable MD041 MD002 -->
 <div align="center">
   <h1>📕 Docs</h1>
@@ -66,3 +67,21 @@ Please read through the [Contributing Guide](https://github.com/Codecademy/docs/
 ## Additional Notes
 
 Remember, if you ever have any questions at all, we're always here to help in the [Codecademy Forums](https://discuss.codecademy.com/c/community/community-docs/2205) and [Codecademy Discord](https://discord.com/invite/codecademy).
+=======
+## Hi there 👋
+
+<!--
+**mnkth01a/mnkth01a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> f3fd3219 (Initial commit)
